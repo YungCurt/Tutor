@@ -1,0 +1,4 @@
+public class main {
+	String[] cars = {"BMW", "Ford", "Chevy"};
+	System.out.println(cars[0]);
+}
